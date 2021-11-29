@@ -1,0 +1,1 @@
+# storeplus-email-template
